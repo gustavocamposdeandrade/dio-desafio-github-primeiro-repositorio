@@ -1,1 +1,6 @@
-link para dowload do git
+git clone [cola link] > clona o repositório
+git pull > atualiza o repositório
+git add . > adiciona o arquivo
+git commit -m "..." > comita a versão que está subindo
+git push > empurra para a nuvem
+git status > o terminar te da o status do repositório local

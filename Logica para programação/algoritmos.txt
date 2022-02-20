@@ -1,0 +1,6 @@
+estrutura de repetição
+condicionais
+ler e escrever
+somas no codigo
+
+Todo conteudo já estudado na faculdade nos primeiros periodos.
