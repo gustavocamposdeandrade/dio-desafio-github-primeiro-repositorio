@@ -1,5 +1,11 @@
-git clone [cola link] > clona o repositório
+Criar um repositório através de uma pasta existeste
 git init > cria um repositorio
+git remote add <name> <url>
+git push <name>
+
+git clone [cola link] > clona o repositório
+
+Atualização do GIT
 git pull > atualiza o repositório
 git add . > adiciona o arquivo
 git commit -m "..." > comita a versão que está subindo
