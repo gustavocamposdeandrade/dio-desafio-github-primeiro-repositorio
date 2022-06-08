@@ -1,4 +1,5 @@
 git clone [cola link] > clona o repositório
+git init > cria um repositorio
 git pull > atualiza o repositório
 git add . > adiciona o arquivo
 git commit -m "..." > comita a versão que está subindo
